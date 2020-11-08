@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TvshowsUserApplication {
+public class PpwaUserApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TvshowsUserApplication.class, args);
+		SpringApplication.run(PpwaUserApplication.class, args);
 	}
 
 }
