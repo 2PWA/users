@@ -1,0 +1,1 @@
+insert into user (username,password,country_code,phone_number,admin) values ('admin', '$2a$10$7cCHdorngQIAX3QvnV95zO.1vsb0bN9/Cxv7dnAdBeUMAGhqtL86u', '57', '3126530766', true);
